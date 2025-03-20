@@ -1,5 +1,6 @@
 # 👨‍💻 Lucas de Leon
-➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC.
+➡️ Conta destinada aos projetos feitos durante a faculdade de Análise e Desenvolvimento de Sistemas no IFSC, e aos projetos e estudos 
+independentes feitos ao decorrer do curso.
 
 ***[LINKEDIN](https://www.linkedin.com/in/lucas-de-leon-rodrigues-coelho-302194293/)***
           
