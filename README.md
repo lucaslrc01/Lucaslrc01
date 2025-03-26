@@ -11,7 +11,7 @@ independentes feitos ao decorrer do curso.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lucas-de-leon-rodrigues-coelho-302194293/)***
 
 <br>    
-<br>
+
 
           
 #
